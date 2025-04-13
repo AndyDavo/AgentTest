@@ -1,4 +1,4 @@
 {
-  "response": "I encountered an error while processing your request: 400 INVALID_ARGUMENT. {'error': {'code': 400, 'message': 'Unable to submit request because `create_pull_request_review` functionDeclaration `parameters.comments` schema specified other fields alongside any_of. When using any_of, it must be the only field set. Learn more: https://cloud.google.com/vertex-ai/generative-ai/docs/multimodal/function-calling', 'status': 'INVALID_ARGUMENT'}}",
+  "response": "I cannot access external websites or local filesystems, therefore I cannot fulfill this request.  I need access to a web search API and file system interaction capabilities to complete this task.\n",
   "usage": {}
 }
