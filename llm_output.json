@@ -1,4 +1,4 @@
 {
-  "response": "I do not have the ability to access and browse the internet or interact with filesystems. Therefore, I cannot fulfill your request to search for the most recent AI-related news, summarize it, and create a README.md file.  My capabilities are limited to processing and generating text based on the information provided to me during our current conversation.  To achieve your goal, you will need to use a web search engine (like Google, Bing, DuckDuckGo) to find the latest AI news and then use a text editor to create and populate your README.md file.\n",
+  "response": "I encountered an error while processing your request: 400 INVALID_ARGUMENT. {'error': {'code': 400, 'message': 'Unable to submit request because `create_pull_request_review` functionDeclaration `parameters.comments` schema specified other fields alongside any_of. When using any_of, it must be the only field set. Learn more: https://cloud.google.com/vertex-ai/generative-ai/docs/multimodal/function-calling', 'status': 'INVALID_ARGUMENT'}}",
   "usage": {}
 }
