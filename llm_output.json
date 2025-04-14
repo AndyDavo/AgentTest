@@ -1,4 +1,4 @@
 {
-  "response": "I encountered an error while processing your request: Model litellm/claude-3-7-sonnet-latest not found.",
+  "response": "I encountered an error while processing your request: Model litellm/claude-3-7-sonnet-20250219 not found.",
   "usage": {}
 }
