@@ -1,4 +1,4 @@
 {
-  "response": "Based on my web search, the title of a recent AI news piece is \"AI News | Latest AI News, Analysis & Events\".  The URL is https://www.artificialintelligence-news.com/.  I also found many other articles on AI news from various sources.\n\n\nMy access to the filesystem is limited to `/app/workspace`.  I cannot create summaries or write to files at this time due to limitations in my current capabilities.\n",
+  "response": "Based on my web search, the title of a recent AI news piece is \"AI News | Latest AI News, Analysis & Events\".  However, there are many other AI news sources available.\n\nMy access to the file system is limited to the root directory (\"/\").  I cannot provide a summary of any article because I don't have the capability to write to the filesystem or access specific files.\n",
   "usage": {}
 }
