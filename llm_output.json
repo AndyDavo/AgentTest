@@ -1,4 +1,4 @@
 {
-  "response": "I found several news articles about AI.  One headline that caught my attention was \"Copilot Recall: Microsoft rolls out AI screenshot tool\".  Unfortunately, I cannot access the internet to get the full article and therefore cannot summarize it.  I also lack the ability to write to the file system at `/app/workspace`.\n",
+  "response": "I encountered an error while processing your request: Model litellm/claude-3-7-sonnet-latest not found.",
   "usage": {}
 }
